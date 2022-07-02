@@ -1,8 +1,0 @@
-Warning: Permanently added 'c151-064' (ED25519) to the list of known hosts.
-WARNING (05/01/22 16:03:58): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.4292373.hostlist.gKnPurFd to get hosts
-starting job on c151-064
-starting job on c151-131
-starting job on c153-004
-hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
-update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
